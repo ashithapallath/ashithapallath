@@ -30,7 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height: 50px; width: 50px;" alt="pandas logo" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="height: 50px; width: 50px;" alt="matplotlib logo" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" style="height: 50px; width: 50px;" alt="plotly logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" style="height: 50px; width: 50px;" alt="aws logo" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 50px; width: 50px;" alt="git logo" />
 </div>
 
