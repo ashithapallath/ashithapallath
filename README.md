@@ -1,7 +1,7 @@
 <h2 align="left" style="font-size: 32px; font-weight: bold; color: #333; font-family: 'Arial', sans-serif;">
     Hi there! 👋  
 </h2>
-<h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'Arial', sans-serif;">
+<h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'roboto', sans-serif;">
     I’m <strong>Ashitha</strong>, an <strong>Integrated MSc Computer Science</strong> student with a passion for 
     <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>. 
     I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, 
