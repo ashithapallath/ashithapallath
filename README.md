@@ -2,8 +2,8 @@
     Heyy there 👋  
 </h2>
 <h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'Roboto', sans-serif;">
-    I’m <strong>Ashitha</strong>, an <strong>Integrated MSc Computer Science</strong> student with a passion for 
-    <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>. 
+    I’m Ashitha, an Integrated MSc Computer Science student with a passion for 
+    Artificial Intelligence ,Machine Learning and Data Science. 
     I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, 
     and explore the vast possibilities of data-driven innovation.
 </h2>
