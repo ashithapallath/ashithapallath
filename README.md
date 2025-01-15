@@ -1,25 +1,24 @@
-# Hi there! 👋  
-I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion for **Artificial Intelligence** and **Data Science**. I thrive on applying machine learning to tackle real-world challenges, uncover patterns in complex datasets, and create impactful solutions.
+<h2 align="left">Hi there! 👋  
+I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion for **Artificial Intelligence** and **Data Science**. I thrive on applying machine learning to tackle real-world challenges, uncover patterns in complex datasets, and create impactful solutions.</h2>
 
-![Ashitha's Anime Profile Image](https://path-to-anime-image.com)   <!-- Replace with your anime image URL -->
+###
 
 ### 🌟 What Drives Me  
 - **Machine Learning Enthusiast**: Transforming data into actionable insights.  
 - **Creative Problem Solver**: Innovating AI solutions to address real-world challenges.  
 - **Lifelong Learner**: Continuously exploring new technologies and industry trends.  
 
-🌟 **Fun Fact**: I’m not a coffee drinker, but I bring a ton of energy to my work!  
-
 ---
 
-## 📬 Connect with Me  
-Feel free to reach out or connect with me on social platforms:  
+## Socials  
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__?igshid=MzMyNGUyNmU2YQ==)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)  
 
 ---
 
 ## 💻 My Tech Toolbox  
+
 ### **Languages**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />  
@@ -62,7 +61,7 @@ Feel free to reach out or connect with me on social platforms:
 
 ---
 
-## 🚀 Projects  
+## Top Projects  
 
 ### **Image Splicing Forgery Detection**  
 Developed a **Convolutional Neural Network (CNN)** to detect image splicing forgeries, ensuring digital content authenticity.
@@ -75,6 +74,15 @@ Awarded in multiple hackathons for innovative solutions to real-world challenges
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ashithapallath&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Snake Game
+
+[![Snake Game](https://github.com/ashithapallath/ashithapallath/blob/main/assets/snake-game-screenshot.png)](https://github.com/ashithapallath/snake-game)
 
 ---
+
+## 👩‍💻 Girl Illustration  
+[![Girl Illustration](https://github.com/ashithapallath/ashithapallath/blob/main/assets/girl-illustration.png)](https://github.com/ashithapallath/girl-illustration)
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=ashithapallath&icon=0&color=0)](https://visitcount.itsvg.in)
