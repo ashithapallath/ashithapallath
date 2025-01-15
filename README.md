@@ -1,5 +1,4 @@
-<h2 align="left" style="font-size: 32px; font-weight: bold; color: #333; font-family: 'Brush Script MT', cursive;">
-    Hi there! 👋  
+<h1 align="center">hey there 👋</h1>
 </h2>
 <h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'Roboto', sans-serif;">
     I’m <strong>Ashitha</strong>, an <strong>Integrated MSc Computer Science</strong> student with a passion for 
@@ -17,7 +16,6 @@
 
 ## 💻 <span style="font-weight: bold;">Tech Toolbox</span>  
 
-### **Programming Languages**  
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 50px; width: 50px;" alt="python logo" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 50px; width: 50px;" alt="java logo" />  
