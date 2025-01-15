@@ -8,7 +8,7 @@
     and explore the vast possibilities of data-driven innovation.
 </h2>
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ### 🌱 <span style="font-weight: bold;">My Passion</span>  
 - <strong>Machine Learning Enthusiast</strong>: Crafting models to predict and classify data, uncover hidden insights, and improve systems.  
@@ -63,9 +63,5 @@ Participated in multiple hackathons, delivering **innovative AI solutions** rang
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)  
 
-[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://github.com)
-
----
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
