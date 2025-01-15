@@ -1,7 +1,7 @@
-<h2 align="left" style="font-size: 32px; font-weight: bold; color: #333; font-family: 'Arial', sans-serif;">
+<h2 align="left" style="font-size: 32px; font-weight: bold; color: #333; font-family: 'Brush Script MT', cursive;">
     Hi there! 👋  
 </h2>
-<h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'roboto', sans-serif;">
+<h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'Roboto', sans-serif;">
     I’m <strong>Ashitha</strong>, an <strong>Integrated MSc Computer Science</strong> student with a passion for 
     <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>. 
     I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, 
@@ -50,29 +50,29 @@
 
 ## 🏆 <span style="font-weight: bold;">Key Projects</span>
 
-### **Image Splicing Forgery Detection**  
+#### **Image Splicing Forgery Detection**
 Developed an **AI-powered system** using **Convolutional Neural Networks (CNN)** to detect image splicing, ensuring digital content integrity in critical applications like news verification and forensic investigations.  
-[GitHub Repository](https://github.com/ashithapallath/Image-Splicing-Detection)
+- Explore the code and details for this project [here](https://github.com/ashithapallath/Image-Splicing-Detection).
 
-### **Stock Market Sentiment Analysis and Volatility Prediction**  
+#### **Stock Market Sentiment Analysis and Volatility Prediction**
 Created a **sentiment analysis model** based on **VADER** and **Natural Language Processing** techniques, paired with statistical modeling, to predict stock market volatility and assist traders in decision-making.  
-[GitHub Repository](https://github.com/ashithapallath/Stock-Market-Sentiment-Analysis)
+- Check out the project [here](https://github.com/ashithapallath/Stock-Market-Sentiment-Analysis).
 
-### **Anomaly in Transaction Detection**  
+#### **Anomaly in Transaction Detection**
 Developed an **anomaly detection model** that identifies fraudulent or unusual transactions in financial data using **unsupervised learning** techniques. This system was built to improve security and trust in financial operations.  
-[GitHub Repository](https://github.com/ashithapallath/Anomaly-in-Transaction)
+- Learn more about this project [here](https://github.com/ashithapallath/Anomaly-in-Transaction).
 
-### **Drive.AI - Autonomous Driving Simulation**  
+#### **Drive.AI - Autonomous Driving Simulation**
 Built an **autonomous vehicle simulation system** using **deep reinforcement learning**, enabling a vehicle to navigate complex environments safely and efficiently. This project aimed to advance autonomous driving systems with realistic real-world application.  
-[GitHub Repository](https://github.com/ashithapallath/Drive.AI)
+- Check out the simulation details [here](https://github.com/ashithapallath/Drive.AI).
 
-### **Entity Recognition Using HMM**  
+#### **Entity Recognition Using HMM**
 Implemented a **Named Entity Recognition (NER) system** using **Hidden Markov Models (HMM)** to identify and classify entities in text, improving the accuracy of information extraction from natural language data.  
-[GitHub Repository](https://github.com/ashithapallath/Entity-Recognition-HMM)
+- Explore the full project [here](https://github.com/ashithapallath/Entity-Recognition-HMM).
 
-### **AI-Driven Hackathon Projects**  
+#### **AI-Driven Hackathon Projects**
 Participated in multiple hackathons, delivering **innovative AI solutions** ranging from real-time prediction systems to interactive data-driven applications.  
-[GitHub Repository](https://github.com/ashithapallath?tab=repositories)
+- Check out all my hackathon projects [here](https://github.com/ashithapallath?tab=repositories).
 
 ---
 
