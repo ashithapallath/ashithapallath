@@ -1,14 +1,19 @@
-<h2 align="left">Hi there! 👋  
-I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, and explore the vast possibilities of data-driven innovation.</h2>
+<h2 align="left" style="font-size: 32px; font-weight: bold; color: #333;">
+    Hi there! 👋  
+    I’m <strong>Ashitha</strong>, an <strong>Integrated MSc Computer Science</strong> student with a passion for 
+    <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>. 
+    I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, 
+    and explore the vast possibilities of data-driven innovation.
+</h2>
 
-### 🌱 My Passion  
-- **Machine Learning Enthusiast**: Crafting models to predict and classify data, uncover hidden insights, and improve systems.  
-- **AI for Real-World Impact**: Developing AI solutions that address societal issues and drive technological progress.  
-- **Data-Driven Problem Solver**: Utilizing data to create actionable insights and enhance decision-making in complex scenarios.  
+### 🌱 <span style="font-weight: bold;">My Passion</span>  
+- <strong>Machine Learning Enthusiast</strong>: Crafting models to predict and classify data, uncover hidden insights, and improve systems.  
+- <strong>AI for Real-World Impact</strong>: Developing AI solutions that address societal issues and drive technological progress.  
+- <strong>Data-Driven Problem Solver</strong>: Utilizing data to create actionable insights and enhance decision-making in complex scenarios.  
 
+---
 
-
-## Tech Toolbox 💻  
+## 💻 <span style="font-weight: bold;">Tech Toolbox</span>  
 
 ### **Programming Languages**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />  
@@ -33,10 +38,10 @@ I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion
 
 ---
 
-## Key Projects 🏆
+## 🏆 <span style="font-weight: bold;">Key Projects</span>
 
 ### **Image Splicing Forgery Detection**  
-Developed an **AI-powered system** using **Convolutional Neural Networks (CNN)** to detect image splicing, ensuring digital content integrity in critical applications like news verification and forensic investigations.  
+Developed an **AI-powered system** using **Convolutional Neural Networks (CNN)** to detect image splicing, ensuring digital content integrity in critical applications like news verification and forensic investigations.
 
 ### **Stock Market Sentiment Analysis and Volatility Prediction**  
 Created a **sentiment analysis model** based on **VADER** and **Natural Language Processing** techniques, paired with statistical modeling, to predict stock market volatility and assist traders in decision-making.
@@ -46,9 +51,9 @@ Participated in multiple hackathons, delivering **innovative AI solutions** rang
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 <span style="font-weight: bold;">Connect with Me</span>  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)
 
 ---
 
