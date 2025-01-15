@@ -1,58 +1,47 @@
-# Hi there! 👋  
-I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion for **Artificial Intelligence** and **Data Science**. I thrive on applying machine learning to tackle real-world challenges, uncover patterns in complex datasets, and create impactful solutions.
+<h2 align="left">Hi 👋!An Integrated MSc Computer Science student from CUSAT with a passion for AI & ML. I love diving into tech challenges and crafting innovative solutions through machine learning. </h2>
 
-![Ashitha's Anime Profile Image](https://path-to-anime-image.com)   <!-- Replace with your anime image URL -->
+###
 
-### 🌟 What Drives Me  
-- **Machine Learning Enthusiast**: Transforming data into actionable insights.  
-- **Creative Problem Solver**: Innovating AI solutions to address real-world challenges.  
-- **Lifelong Learner**: Continuously exploring new technologies and industry trends.  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashithapallath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashithapallath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
+###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
----
+###
 
-## 📬 Connect with Me  
-Feel free to reach out or connect with me on social platforms:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__?igshid=MzMyNGUyNmU2YQ==)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+</div>
 
----
+###
 
-## 💻 My Tech Toolbox  
-### **Languages**  
-Python | Java | C++ | C# | Scala | R | JavaScript  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</div>
 
-### **Frameworks & Tools**  
-TensorFlow | PyTorch | Keras | Node.js | React | Flutter | Apache Spark | Express.js  
+###
 
-### **Databases**  
-MySQL | MongoDB | Neo4j  
+<br clear="both">
 
-### **Development Tools**  
-Git | Docker | Jenkins | Postman  
-
-### **Visualization Tools**  
-Matplotlib | Pandas | Plotly  
-
-### **Cloud & Others**  
-AWS | Raspberry Pi | Vercel  
-
----
-
-## 🚀 Projects  
-
-### **Image Splicing Forgery Detection**  
-Developed a **Convolutional Neural Network (CNN)** to detect image splicing forgeries, ensuring digital content authenticity.
-
-### **Sentiment Analysis and Volatility Modeling**  
-Conducted sentiment analysis of stock market news using **VADER** and statistical methods, providing actionable insights for volatility prediction.
-
-### **Hackathon Highlights**  
-Awarded in multiple hackathons for innovative solutions to real-world challenges using technology.
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ashithapallath&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
+<img src="https://raw.githubusercontent.com/ashithapallath/ashithapallath/output/snake.svg" alt="Snake animation" />
