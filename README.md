@@ -3,7 +3,8 @@ Hey there! 👋 I’m Ashitha, an Integrated MSc Computer Science student with a
 
 Working with data is my happy place—it’s like solving a puzzle, and I love uncovering the stories hidden within the numbers. Whether it’s building models, experimenting with new tools, or just making sense of chaotic datasets, I’m always up for the challenge. 
 
-![Tiny Anime Girl](https://via.placeholder.com/300x300?text=Anime+Girl+Vibes+%F0%9F%98%8E)
+![image](https://github.com/user-attachments/assets/2b1f922d-d9f0-4e7b-9354-f5afc4043e4d)
+
 
 ## 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__?igshid=MzMyNGUyNmU2YQ==)  
@@ -17,11 +18,3 @@ Working with data is my happy place—it’s like solving a puzzle, and I love u
 - **Visualization Tools**: Matplotlib, Pandas, Plotly  
 - **Others**: AWS, Raspberry Pi, Vercel  
 
-# 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashithapallath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashithapallath&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashithapallath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ashithapallath&icon=0&color=0)](https://visitcount.itsvg.in)  
