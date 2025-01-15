@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">hey there 👋</h2>
 </h2>
 <h2 align="left" style="font-size: 24px; font-weight: normal; color: #333; font-family: 'Roboto', sans-serif;">
     I’m <strong>Ashitha</strong>, an <strong>Integrated MSc Computer Science</strong> student with a passion for 
