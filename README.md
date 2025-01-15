@@ -1,87 +1,54 @@
 <h2 align="left">Hi there! 👋  
-I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion for **Artificial Intelligence** and **Data Science**. I thrive on applying machine learning to tackle real-world challenges, uncover patterns in complex datasets, and create impactful solutions.</h2>
+I’m **Ashitha**, an **Integrated MSc Computer Science** student with a passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, and explore the vast possibilities of data-driven innovation.</h2>
 
-###
+### 🌱 My Passion  
+- **Machine Learning Enthusiast**: Crafting models to predict and classify data, uncover hidden insights, and improve systems.  
+- **AI for Real-World Impact**: Developing AI solutions that address societal issues and drive technological progress.  
+- **Data-Driven Problem Solver**: Utilizing data to create actionable insights and enhance decision-making in complex scenarios.  
 
-### 🌟 What Drives Me  
-- **Machine Learning Enthusiast**: Transforming data into actionable insights.  
-- **Creative Problem Solver**: Innovating AI solutions to address real-world challenges.  
-- **Lifelong Learner**: Continuously exploring new technologies and industry trends.  
 
----
 
-## Socials  
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__?igshid=MzMyNGUyNmU2YQ==)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)  
+## Tech Toolbox 💻  
 
----
-
-## 💻 My Tech Toolbox  
-
-### **Languages**  
+### **Programming Languages**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 
-### **Frameworks & Tools**  
+### **Machine Learning Frameworks & Libraries**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
 
-### **Databases**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" alt="neo4j logo" />
-
-### **Development Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" />
-
-### **Visualization Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />  
+### **Data Science & Visualization Tools**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" alt="plotly logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" alt="plotly logo" />  
 
-### **Cloud & Others**  
+### **Cloud & Development Tools**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="aws logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="vercel logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />  
 
 ---
 
-## Top Projects  
+## Key Projects 🏆
 
 ### **Image Splicing Forgery Detection**  
-Developed a **Convolutional Neural Network (CNN)** to detect image splicing forgeries, ensuring digital content authenticity.
+Developed an **AI-powered system** using **Convolutional Neural Networks (CNN)** to detect image splicing, ensuring digital content integrity in critical applications like news verification and forensic investigations.  
 
-### **Sentiment Analysis and Volatility Modeling**  
-Conducted sentiment analysis of stock market news using **VADER** and statistical methods, providing actionable insights for volatility prediction.
+### **Stock Market Sentiment Analysis and Volatility Prediction**  
+Created a **sentiment analysis model** based on **VADER** and **Natural Language Processing** techniques, paired with statistical modeling, to predict stock market volatility and assist traders in decision-making.
 
-### **Hackathon Highlights**  
-Awarded in multiple hackathons for innovative solutions to real-world challenges using technology.
-
----
-
-## 🐍 Snake Game
-
-[![Snake Game](https://github.com/ashithapallath/ashithapallath/blob/main/assets/snake-game-screenshot.png)](https://github.com/ashithapallath/snake-game)
+### **AI-driven Hackathon Projects**  
+Participated in multiple hackathons, delivering **innovative AI solutions** ranging from real-time prediction systems to interactive data-driven applications.
 
 ---
 
-## 👩‍💻 Girl Illustration  
-[![Girl Illustration](https://github.com/ashithapallath/ashithapallath/blob/main/assets/girl-illustration.png)](https://github.com/ashithapallath/girl-illustration)
+## 🌐 Connect with Me  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ash_itha__)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashitha-pallath-6bb942258)  
 
 ---
 
