@@ -4,8 +4,6 @@
 <h2 align="left" style="font-size: 12px; font-weight: normal; color: #333; font-family: 'Roboto', sans-serif;">
     I’m Ashitha, an Integrated MSc Computer Science student with a passion for 
     Artificial Intelligence ,Machine Learning and Data Science. 
-    I thrive on applying advanced machine learning techniques to solve real-world problems, develop intelligent systems, 
-    and explore the vast possibilities of data-driven innovation.
 </h2>
 
 
